@@ -1,0 +1,11 @@
+a=[1,2,3]
+b=a
+print(b)
+puts("-----------")
+a<<[1,2]
+print(a)
+print(b)
+puts("------------")
+b<<[8,9]
+print(a)
+print(b)
